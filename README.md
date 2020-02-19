@@ -15,12 +15,12 @@ First up you need to fork (create a copy) of this repository:
 
 [How to fork a repo on GitHub](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 
-![Fork a repo button on GitHub](assets/readme/fork-repo.png)
+![Fork a repo button on GitHub](resources/readme/fork-repo.png)
 
 ### Step 2
 Create an account on Netlify to host your site. If you sign up using GitHub all your repositories will be available as soon as you log in.
 [Sign-up to Netlify](https://app.netlify.com/signup)
-![Fork a repo button on GitHub](assets/readme/netlify-signup.png)
+![Fork a repo button on GitHub](resources/readme/netlify-signup.png)
 
 ### Step 3
 1. Click the 'Create a new site from GitHub' link.
@@ -29,11 +29,11 @@ Create an account on Netlify to host your site. If you sign up using GitHub all 
 
 Your site should now be live at the link provided on your Netlify dashboard:
 
-![Netlify URL location](assets/readme/netlify-url.png)
+![Netlify URL location](resources/readme/netlify-url.png)
 
 ### Step 4
 Clone the repo to your local machine to work on the solutions.
 
-![GitHub clone button](assets/readme/github-clone.png)
+![GitHub clone button](resources/readme/github-clone.png)
 
 Merge to master and push your changes to see them deployed to your Netlify site.
