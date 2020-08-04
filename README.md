@@ -1,6 +1,6 @@
 # Web Dev Apprentice Source Control Training
 
-For this session we will be auditing a site for common accessibility errors and fixing them.
+For this session we will be working with Git on a colaborative project.
 
 ## QuickStart
 1. Fork this repo to your own GitHub account
